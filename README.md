@@ -15,6 +15,9 @@
 # 1. Team Identity
 
 ## 1.1 Team Name and Photo
+## TARS
+![Team Photo](images/imagesteam%20photo.jpg.jpeg)
+
 
 ---
 
