@@ -19,14 +19,15 @@
 ---
 
 ## 1.2 Team Members
+## TARS
+
+
 
 | Name | Role | Skills |
-| ---- | ---- | ------ |
-|      |      |        |
-|      |      |        |
-|      |      |        |
-
----
+|------|------|--------|
+| **Pruthvi Jadhav** |  | Builder • Embedded Systems • IoT Development • Community Leadership |
+| **Parth Vaishampayan** |  | Rapid Prototyping • CAD Design • Fusion 360 • Embedded C Programming |
+| **Aditi Patwa** |  | Embedded Systems • Technical Documentation • Microcontroller Programming |
 
 # 2. Problem Discovery
 
