@@ -16,15 +16,20 @@
 
 ## 1.1 Team Name and Photo
 
+### Team Name: TARS
+
+![TARS Team Photo](./images/team-photo.jpeg)
+
 ---
 
 ## 1.2 Team Members
+## TARS
 
 | Name | Role | Skills |
-| ---- | ---- | ------ |
-|      |      |        |
-|      |      |        |
-|      |      |        |
+|------|------|--------|
+| **Pruthvi Jadhav** |  | Builder • Embedded Systems • IoT Development • Community Leadership |
+| **Parth Vaishampayan** |  | Rapid Prototyping • CAD Design • Fusion 360 • Embedded C Programming |
+| **Aditi Patwa** |  | Embedded Systems • Technical Documentation • Microcontroller Programming |
 
 ---
 
@@ -167,7 +172,7 @@ Explain your solution.
 
 ## Block Diagram
 
-Insert diagram here.
+![Block Diagram](./images/block-diagram.jpg)
 
 ---
 
@@ -217,6 +222,8 @@ Description:
 
 Lessons Learned:
 
+![Prototype V1](./images/prototype-v1.jpg)
+
 ---
 
 ## Version 2
@@ -225,11 +232,15 @@ Description:
 
 Lessons Learned:
 
+![Prototype V2](./images/prototype-v2.jpg)
+
 ---
 
 ## Final Prototype
 
 Description:
+
+![Final Prototype](./images/prototype-final.jpg)
 
 ---
 
@@ -330,7 +341,7 @@ Patents / Products Found:
 
 ## Prototype Images
 
-Insert photos.
+![Demonstration](./images/demonstration.jpg)
 
 ---
 
