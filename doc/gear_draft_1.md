@@ -9,44 +9,55 @@
 - Draft: 1
 - Date: 2026-06-05
 
-## Description
+## Description (please answer)
 
-This CAD export is the primary gear for the double worm-gear mechanism developed by the team. It is provided as an STL for 3D printing and review.
+- What is the intended role of this gear in the mechanism?
+- Which subsystem(s) does it mate with (e.g., worm shafts, hubs, bearings)?
+- Any constraints or non-negotiable requirements (space, weight, orientation)?
 
-## Design Notes
+## Design Details (please provide values)
 
-- Mechanism type: double worm gear set (two worm drives sharing a common output gear)
-- Intended function: high-reduction, self-locking rotary actuation with compact axial profile
-- Key dimensions and constraints: modeled to mate with 8 mm worm shafts and M3 fasteners (verify in CAD before assembly)
+- Mechanism type: (confirm "double worm gear set" or describe)
+- Number of worms driving the gear:
+- Target reduction ratio:
+- Module / pitch / tooth profile or drawing reference:
+- Shaft diameter(s) and keyway details for mating parts:
+- Mounting method (press-fit / screw-on / keyed / set-screw):
 
-## Materials & Print Settings (recommended)
+## Critical Dimensions to Verify
 
-- Material: PETG or ABS for mechanical strength; PLA for prototyping only
-- Layer height: 0.2 mm
-- Infill: 40% gyroid or cubic
-- Perimeters: 3
-- Supports: minimal — depends on orientation
+- Outer diameter of gear:
+- Bore diameter(s):
+- Tooth face width:
+- Axial offset / spacing required between worms:
 
-## Assembly
+## Materials & Preferred Print / Manufacture Settings (please specify)
 
-1. Verify worm shaft alignment and bearing bores before press-fit.
-2. Use M3 screws with lock washers to secure gear to hub if required.
-3. Check backlash and axial spacing; shim as needed using 0.2 mm shims.
+- Preferred material (e.g., PETG, ABS, Nylon, Metal):
+- If 3D printed: recommended layer height, infill, perimeters, supports:
+- Surface finish or post-process requirements (anneal, machining, heat-set inserts):
 
-## Testing & Validation
+## Assembly Questions
 
-- Run a low-speed rotation test under no-load for 1 minute to inspect for binding.
-- Measure reduction ratio and compare with design target (+/- 2%).
-- Perform torque test up to expected operational torque; inspect gear teeth for deformation.
+- What bearings (type/size) are used, if any?
+- Fastener sizes and torque limits:
+- Are shims or spacers expected between components? If so, what thicknesses?
 
-## Files Included
+## Testing & Validation (please define tests and success criteria)
 
-- gear_draft_1.stl — 3D-printable STL stored in `cad/`. If the binary STL is not present, upload the provided `docs/cad_sources/Gear Wheel.stl` as `cad/gear_draft_1.stl`.
+- Functional tests required (e.g., rotation under load, backlash measurement):
+- Acceptance criteria (e.g., max backlash, min torque capacity, max deformation):
+- Environmental tests (temperature, humidity, cyclic load):
+
+## Files Included / Needed
+
+- Is `cad/gear_draft_1.stl` final or should we also include STEP/IGES? (yes / no)
+- Other source files to add (native CAD file, drawings):
 
 ## Revision History
 
-- 2026-06-05 — Draft 1 created; documentation added by project maintainer.
+- 2026-06-05 — Draft 1 created; documentation converted to questionnaire.
 
-## Author
+## Author / Contact
 
-- Team: Pruthvi Jadhav • Parth Vaishampayan • Aditi Patwa
+- Who should be listed as the point of contact for CAD questions?
