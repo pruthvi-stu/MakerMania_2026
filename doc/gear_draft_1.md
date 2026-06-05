@@ -1,4 +1,4 @@
-# Gear — Draft 1
+# Gear Draft 1
 
 **Project:** MAKERMANIA 2026 — Double Worm Gear Mechanism
 
@@ -6,7 +6,7 @@
 
 ## Version
 
-- Draft: 1
+- Version: 1
 - Date: 2026-06-05
 
 ## Description
@@ -18,8 +18,8 @@ This gear is part of a double complex worm gear system. A worm is attached to a 
 - Mechanism type: double complex worm gear system
 - Number of worms driving the gear: one worm drives one worm wheel in each stage
 - Number of stages: four worm gear stages
-- Target reduction ratio: 100:1 per stage
-- Total reduction ratio: 100,000,000:1 across all four stages
+- Target reduction ratio: 100:1
+- Total reduction ratio: 100:1
 - Module / pitch / tooth profile: worm wheel with 100 teeth, module 1 mm, standard involute tooth profile
 - Shaft diameter / mounting: press-fit onto a 10 mm shaft or PVC pipe
 
