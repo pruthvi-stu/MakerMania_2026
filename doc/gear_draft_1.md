@@ -2,7 +2,7 @@
 
 **Project:** MAKERMANIA 2026 — Double Worm Gear Mechanism
 
-**File:** gear_draft_1.stl (attached)
+**File:** docs/gear_draft_1.stl
 
 ## Version
 
@@ -41,7 +41,7 @@ This CAD export is the primary gear for the double worm-gear mechanism developed
 
 ## Files Included
 
-- gear_draft_1.stl — 3D-printable STL (attached to this folder). If the binary STL is not present, upload the provided `Gear Wheel.stl` as `gear_draft_1.stl` in this folder.
+- gear_draft_1.stl — 3D-printable STL stored in `docs/`. If the binary STL is not present, upload the provided `cad/Gear Wheel.stl` as `docs/gear_draft_1.stl`.
 
 ## Revision History
 
