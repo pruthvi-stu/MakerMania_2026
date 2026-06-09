@@ -3,19 +3,13 @@
 
 ## Innovation Project Workbook
 
-> Program Duration: 1 June 2026 – 4 July 2026
->
-> Location: MBF Tinkerers' Lab 007
->
-> Team Size: 3–5 Students
->
-> Goal: Identify a real-world problem and develop an innovative, patentable, and implementable solution.
+> ### USELESS PRODUCT Link- https://youtu.be/VmvSfJyc5I4
+
 
 ---
 
 # 1. Team Identity
 
-## 1.1 Team Name and Photo
 
 ### Team Name: TARS
 
@@ -35,18 +29,11 @@
 ---
 
 # 2. Problem Discovery
-
+> 1.Electronics development has become software-driven, but circuit interconnections on breadboards still rely on manual jumper-wire routing.
 ## 2.1 Observation Area
 
 Where did you conduct your observations?
-
-* Hostel
-* Canteen
-* Workshop
-* Hospital
-* Public Transport
-* Home
-* Other
+*Home working on breadboard
 
 ---
 
