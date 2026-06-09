@@ -42,8 +42,8 @@ This gear is part of a double complex worm gear system. A worm is attached to a 
 
 ## Assembly Notes
 
-- Bearings: 608 bearings may be used for smoother operation.
-- Prototype support: PVC pipe supports may also be used.
+
+- Prototype support: 12 mm steel pipe 240 mm length
 - Shims / spacers: small spacers or shims may be added for alignment and smooth meshing.
 
 ## Testing & Validation
