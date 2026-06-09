@@ -61,7 +61,3 @@ This gear is part of a double complex worm gear system. A worm is attached to a 
 
 - 2026-06-05 — Draft 1 updated with project-specified gear details.
 
-## Author / Contact
-
-- Point of contact: Parth Swami
-- Email: to be provided
