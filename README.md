@@ -1,4 +1,4 @@
-# MAKERMANIA 2027
+# MAKERMANIA 2026
 
 ## Innovation Project Workbook
 
