@@ -5,7 +5,7 @@
 
 > ### USELESS PRODUCT Link- https://youtu.be/VmvSfJyc5I4
 
-
+> ### SCAMPER PPT LINK - https://1drv.ms/p/c/acfda315b1d440b2/IQCh6eFZXNWSS7g1YM79ssfGAZ71E_7N3MfKULV7yvvy0Fc?e=Wdu4vh
 ---
 
 # 1. Team Identity
